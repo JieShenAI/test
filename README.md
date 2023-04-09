@@ -39,7 +39,7 @@ git cat-file -p
 
 若不希望将文件夹的一些敏感文件，上传到github中，可将该文件路径写入到`.gitignore`文件中
 
-项目根目录创建 `.gitignore` 文件:
+在项目根目录创建 `.gitignore` 文件:
 
 >  路径以 `/` 开头
 
@@ -47,4 +47,10 @@ git cat-file -p
 /.gitignore
 /.idea/
 ```
+
+
+
+## 分支
+
+多分支合并
 
